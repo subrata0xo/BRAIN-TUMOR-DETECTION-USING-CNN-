@@ -41,15 +41,6 @@ We used the **Kaggle Brain Tumor MRI Dataset**, which contains MRI images classi
 - To run the **CNN model**: open `code(CNN).ipynb` in Jupyter Notebook and execute cells.  
 - To run the **K-NN model**: open `code(K-NN).ipynb` in Jupyter Notebook and execute cells.  
 
-## 📂 Project Structure
-```
-├── code(CNN).ipynb      # Notebook for CNN model
-├── code(K-NN).ipynb     # Notebook for K-NN model
-├── data/                # Dataset (not included due to size)
-├── README.md            # Project documentation
-└── requirements.txt     # Dependencies
-```
-
 ## 👩‍💻 Contributors
 - **Subrata Samanta** – Implemented CNN model  
 - **Sumoyee Bar** – Implemented K-NN model  
