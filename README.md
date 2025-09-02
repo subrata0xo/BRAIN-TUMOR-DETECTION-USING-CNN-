@@ -28,14 +28,6 @@ We used the **Kaggle Brain Tumor MRI Dataset**, which contains MRI images classi
 | CNN   | Deep Learning (TensorFlow/Keras) | **97%+** |
 | K-NN  | Traditional ML (scikit-learn) | 90% |
 
-## ⚙️ Installation & Requirements
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/yourusername/brain-tumor-detection.git
-cd brain-tumor-detection
-pip install -r requirements.txt
-```
-
 ### Requirements
 - Python 3.x  
 - TensorFlow  
@@ -59,8 +51,6 @@ pip install -r requirements.txt
 ```
 
 ## 👩‍💻 Contributors
-- **Subu** – Implemented CNN model  
-- **Sumoyee** – Implemented K-NN model  
+- **Subrata Samanta** – Implemented CNN model  
+- **Sumoyee Bar** – Implemented K-NN model  
 
-## 📜 License
-This project is licensed under the **MIT License**.
